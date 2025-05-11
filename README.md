@@ -2,7 +2,7 @@
 # QR Code Generator
 
 
-A customizable QR code generator with a user-friendly graphical interface, built with Python and Tkinter.
+A customizable QR code generator with a user-friendly graphical interface, built with Python.
 
 
 
